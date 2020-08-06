@@ -1,0 +1,8 @@
+print("Hello World")
+print('#'*10)
+name = 'Kashif Hussain'
+age = 20
+is_new = True
+person = input("What is your name?  ")
+color = input("What color do you like")
+print(person + " like " + color)
